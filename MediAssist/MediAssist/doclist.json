@@ -1,0 +1,236 @@
+{
+	"Dentist": [{
+			"name": "Dr. Enrico Barani & Dr. Andrea Scudellari",
+			"address": "Via Giovanni Cagliero, 8, 20125 Milano MI",
+			"latlong": "45.495197,9.204913",
+			"timing": "Monday - Friday(9.00am-2.00pm)"
+		},
+		{
+			"name": "Dr. Barton",
+			"address": "Galleria Starsburgo, 3, 20122 Milano MI",
+			"latlong": "45.469381,9.207263",
+			"timing": "Monday - Friday(10.00am-7.30pm)"
+		}, 
+		{
+			"name": "Dr. Mayas",
+			"address": "Via Rodolfo Farneti, 10, 201209 Milano MI",
+			"latlong": "45.479298,9.216209",
+			"timing": "Monday - Saturday(9.00am-6.00pm)"
+		},
+		{
+		    "name": "Dr. ssa Horsving Sussane",
+			"address": "Corso Italia, 50, 20122 Milano MI",
+			"latlong": "45.454998,9.187149",
+			"timing": "Monday - Friday(9.00am-6.00pm)"
+		},
+		{
+		    "name": "Dr. Mario Lisa",
+			"address": "Viale Abruzi, 33, 20131 Milano MI",
+			"latlong": "45.478777,9.216710",
+			"timing": "Monday - Friday(9.00am-1.00pm & 2.00pm-7.30pm)"
+		},
+		{
+		    "name": "IMI EDN-Clinica EDN Milano",
+			"address": "Via Mauro Mcchi, 38, 20124 Milano MI",
+			"latlong": "45.484299,9.207370",
+			"timing": "Monday - Friday(9.00am-7.30pm)"
+		},
+		{
+		    "name": "Dr. Val Servizi Dentali",
+			"address": "Via Val di Sole, 20141, Milano MI",
+			"latlong": "45.431401,9.203200",
+			"timing": "Monday - Saturday(9.00am-1.30pm)"
+		},
+		{
+		    "name": "Studio Dentisco Associato Poggio",
+			"address": "Piazza Armando Diaz, 6, 20123 Milano MI",
+			"latlong": "45.462340,9.189437",
+			"timing": "Monday - Friday(9.00am-7.00pm)"
+		}, {
+		    "name": "Dr. Mario Goisis",
+			"address": "Via Giouse Carducci, 19, 20123, Milano MI",
+			"latlong": "45.464783,9.174995",
+			"timing": "Monday - Friday(3.00pm-8.00pm)"
+		}
+	],
+	"Cardiologist": [{
+			"name": "Dr. Giovanni Cali",
+			"address": "Via Monte Napoleone, 10, 20129 Milano MI",
+			"latlong": "45.468374,9.195284",
+			"timing": "Monday - Friday(9.00am-6.00pm)"
+		},
+		{
+			"name": "Citelli Dr. Luca",
+			"address": "Via Alessandro Volta, 9, 20121 Milano MI",
+			"latlong": "45.479558,9.183424",
+			"timing": "Monday - Friday(9.00am-6.00pm)"
+		}, 
+		{
+			"name": "Grimi Dr. Claudio",
+			"address": "Via Andrea Costa, 1, 20131 Milano MI",
+			"latlong": "45.486666,9.218214",
+			"timing": "Monday - Friday(10.00am-1.00pm & 3.00pm-8.00pm)"
+		},
+		{
+		    "name": "Collini Dr. Pietro",
+			"address": "Via Filipo Carcano, 2, 20149 Milano MI",
+			"latlong": "45.475079,9.148427",
+			"timing": "Monday - Friday(11.00am-6.00pm)"
+		},
+		{
+		    "name": "Studio Cardiologico Lanotte",
+			"address": "Via Andrea Ponti, 7, 20143 Milano MI",
+			"latlong": "45.446716,9.156196",
+			"timing": "Monday - Friday(9.00am-7.00pm)"
+		},
+		{
+		    "name": "Reggiani Dr. Paolo",
+			"address": "Via Mose Bianchi, 71, 20149 Milano MI",
+			"latlong": "45.474601,9.146356",
+			"timing": "Monday - Friday(9.00am-6.00pm)"
+		},
+		{
+		    "name": "Alessio Dr. Patrizia Giovanna",
+			"address": "Viale Coni Zugna, 10, 20144 Milano MI",
+			"latlong": "45.459873,9.164944",
+			"timing": "Monday - Friday(8.30am-4.00pm)"
+		},
+		{
+		    "name": "Dr. Mattia Glauber",
+			"address": "Via Luigi Giusppe Faravelli, 16, 20149 Milano MI",
+			"latlong": "45.484632,9.153171",
+			"timing": "Monday - Friday(9.00am-5.00pm)"
+		},
+		{
+		    "name": "Cardiologist Milan - Dr. Fincati",
+			"address": "Piazza della Repubblica, 28, 20124 Milano MI",
+            "latlong": "45.479695,9.199031",
+            "timing": "Monday - Friday(9.00am-1.00pm & 2.00pm-6.00pm)"
+        }, {
+		    "name": "Dr. Andrea Sonaglioni",
+			"address": "Via San Vittore, 12, 20123 Milano MI",
+			"latlong": "45.463040,9.171835",
+			"timing": "Monday - Friday(4.30pm-6.00pm)"
+        }			
+	],
+	"GeneralPractioner": [{
+            "name": "Dr. ssa Evelyn Falconi Klein",
+            "address": "Galleria Strasburgo, 3, 20122 Milano MI",
+            "latlong": "45.467616,9.200262",
+            "timing": "Monday - Friday(9.00am-1.00pm & 2.00pm-6.00pm)"
+        },
+        {
+            "name": "Dr. Andrea Zanazzi",
+            "address": "Piazzale Segrio, 5, 20159 Milano MI",
+            "latlong": "45.491086,9.188930",
+            "timing": "Monday - Friday(9.00am-1.00pm)"
+        },
+		{
+		    "name": "Galvagno Dr. Dario",
+			"address": "Via Melchiorre Gioia, 171, 20125 Milano MI",
+			"latlong": "45.495811,9.207526",
+			"timing": "Monday - Friday(9.00am-1.00pm)"
+		},
+		{
+		    "name": "Meneghin Dr. Massimo",
+            "address": "Via Giovanni Battista Bertini, 34, 20154 Milano MI",
+            "latlong": "45.483547,9.173909",
+            "timing": "Monday-Friday(4.00pm-7.00pm)"
+        },
+        {
+            "name": "Dr. Balossi Roberto",
+            "address": "Via Tolentino, 2, 20155 Milano MI",
+            "latlong": "45.488422,9.160762",
+            "timing": "Monday - Friday(3.30pm-6.30pm)"
+        },
+        {
+            "name": "Carra Dr. Massimo",
+            "address": "Via Adeodato Ressi, 12, 20125 Milano MI",
+            "latlong": "45.495839,9.206217",
+            "timing": "Monday - Friday(3.00pm-7.00pm)"
+        },
+        {
+            "name": "Dr. Marco Tironi",
+            "address": "Via Jacopo dal Verme, 4, 20159 Milano MI",
+            "latlong": "45.487540,9.186471",
+            "timing": "Monday - Friday(10.00am-1.00pm & 3.30pm-7.30pm)"
+        },
+        {
+            "name": "Dr. Domenico Gangemi",
+            "address": "Via Ugo Betti, 40/D, 20151 Milano MI",
+            "latlong": "45.492652,9.111904",
+            "timing": "Monday - Friday(3.00pm-8.00pm)"
+        },
+        {
+            "name": "Studio Medico Clerici Dr. Roberto Maria",
+            "address": "Via Monte Rosa, 3, 20149 Milano MI",
+            "latlong": "45.470770,9.154435",
+            "timing": "Monday - Thursday(9.00am-6.00pm)"
+        }, {
+            "name": "Dr. Alganesh Gandi",
+            "address": "Via Giovanni da Milano, 20133 Milano MI",
+            "latlong": "45.469520,9.225383",
+            "timing": "Monday - Friday(5.00pm-8.00pm)"
+        }
+    ],
+    "Pharmacy": [{
+            "name": "Pharmacy Duomo Milan",
+            "address": "Via Orefio, 2, 20123 Milano MI",
+            "latlong": "45.464115,9.188392",
+            "timing": "Monday - Saturday(8.30am-7.30pm)"
+        },
+        {
+            "name": "Pharmacy Lima Milan",
+            "address": "Via Plinio, 1, 20124 Milano MI",
+            "latlong": "45.480182,9.211487",
+            "timing": "Monday - Saturday(8.30am-2.30pm & 3.30pm-7.30pm)"
+        },
+        {
+            "name": "Pharmacy Pontaccio Milan",
+            "address": "Via Pontaccio, 22, 20121 Milano MI",
+            "latlong": "45.472273,9.184127",
+            "timing": "Monday - Saturday(8.30am-7.00pm)"
+        },
+        {
+            "name": "Pharmacy Manzoni Milan",
+            "address": "Via Bigli, 28, 20121 Milano MI",
+            "latlong": "45.469731,9.192648",
+            "timing": "Monday - Saturday(8.30am-7.00pm)"
+        },
+        {
+            "name": "Farmacia",
+            "address": "Piazza Duca d'Aosta, 20124 Milano MI",
+            "latlong": "45.486430,9.203703",
+            "timing": "Monday - Saturday(7.30am-8.30pm)"
+        },
+        {
+            "name": "Pharmacy Vittoria Milan",
+            "address": "Via Fontana, 01, 20122 Milano MI",
+            "latlong": "45.462198,9.203554",
+            "timing": "Monday - Saturday(8.30am-7.00pm)"
+        },
+        {
+            "name": "Farmacia Umbria",
+            "address": "Via Umbria, 109, 20135 Milano MI",
+            "latlong": "45.458102,9.217140",
+            "timing": "Monday - Saturday(8.30am-7.30pm)"
+        },
+        {
+            "name": "Garibaldi Pharmacy",
+            "address": "Corso Garibaldi, 83, 20121 Milano MI",
+            "latlong": "45.476431,9.183859",
+            "timing": "Monday - Saturday(8.30am-7.30pm)"
+        },
+        {
+            "name": "Farmacia Canonica",
+            "address": "Via Luigi Canonica, 32, 20154 Milano MI",
+            "latlong": "45.478984,9.174432",
+            "timing": "Monday - Saturday(7.00am-12.00am)"
+        }, {
+            "name": "Boots Farmacia",
+            "address": "Viale Fulvio Testi, 90, 20126 Milano MI",
+            "latlong": "45.512087,9.204348",
+            "timing": "Monday - Saturday(8.00am-12.00am)"
+        }
+    ]		
+}
